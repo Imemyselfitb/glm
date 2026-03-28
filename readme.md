@@ -1,4 +1,4 @@
-![glm](https://github.com/icaven/glm/doc/manual/logo-mini.png)
+![glm](https://raw.githubusercontent.com/icaven/glm/master/doc/manual/logo-mini.png)
 
 [OpenGL Mathematics](http://glm.g-truc.net/) (*GLM*) is a header only C++ mathematics library for graphics software based on the [OpenGL Shading Language (GLSL) specifications](https://www.opengl.org/registry/doc/GLSLangSpec.4.50.diff.pdf).
 
